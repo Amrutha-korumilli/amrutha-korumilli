@@ -22,7 +22,7 @@
 
 ### 🔧 Tech Stack
 
-`JavaScript` • `Python` • `React` • `Next.js` • `Node.js`  
+`JavaScript` • `Python` • `React` • `Next.js` • `Node.js` • `Java` • `Typescript` • `PHP`  
 `PostgreSQL` • `MongoDB` • `Prisma` • `Flask` • `AWS`  
 `Databricks` • `PySpark` • `Docker` • `LLMs` • `RAG` • `Vector DBs`
 
