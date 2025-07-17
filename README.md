@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amrutha-korumilli&style=flat-square&color=gray" alt="profile views" />
   <a href="https://www.linkedin.com/in/amrutha-korumilli/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:amruthakvb.work@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=red" /></a>
 </p>
@@ -32,7 +31,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrutha-korumilli&show_icons=true&theme=radical&hide_title=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutha-korumilli&layout=compact&theme=radical&hide_title=true" height="160" />
 </p>
 
